@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... music, gaming, and coding!
 - 🌱 I’m currently learning ... Javascript!
 - 💞️ I’m looking to collaborate on ... websites and apps
-- 📫 How to reach me ... @asherthebro on instagram!
+- 📫 How to reach me ... @asherwaves on instagram!
 
 <!---
 ashycodes/ashycodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
